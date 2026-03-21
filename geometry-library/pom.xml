@@ -1,0 +1,12 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.geometry</groupId>
+    <artifactId>geometry-library</artifactId>
+    <version>1.1.0</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>geometry-core</module>
+        <module>geometry-utils</module>
+        <module>three-dimensional-shapes</module>
+    </modules>
+</project>
