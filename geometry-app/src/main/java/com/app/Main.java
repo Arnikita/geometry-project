@@ -1,7 +1,11 @@
-package com.app;
+package main.java.com.app;
 import com.geometry.core.*;
+import com.geometry.core.Shape;
 import com.geometry.utils.*;
 import com.geometry.threed.*;
+
+import java.awt.*;
+
 public class Main {
     public static void main(String[] args) {
         Shape circle = new Circle(5);
